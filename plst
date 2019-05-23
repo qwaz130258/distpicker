@@ -1,1 +1,36 @@
-qweqweqweqweqweqweqwe
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://cloud.189.cn/download/client/iOS/cloud189_1.1.1.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>请填上你的开发者证书用户名</string>
+                <key>bundle-version</key>
+                <string>版本</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>请填上标题</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
+
+作者：程序猿吴彦祖
+链接：https://www.jianshu.com/p/3427783b6d70
+来源：简书
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
